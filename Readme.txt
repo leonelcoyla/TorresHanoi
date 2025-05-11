@@ -1,0 +1,1 @@
+El juego consiste en tres torres y varios discos de diferentes tamaños colocados en la primera torre, de mayor a menor. El propósito es trasladar todos los discos a  la torre 3 teniendo como torre auxiliar la torre 2, cumpliendo dos condiciones: solo se permite mover un disco por vez y no puede estar un disco grande sobre un disco pequeño.
