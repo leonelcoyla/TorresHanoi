@@ -221,7 +221,7 @@ class App:
             frameTextos.pack(pady=20)
 
             # Título
-            tk.Label(frameTextos, text="\n\n\n\nJuego de las Torres de Hanoi\nTorresHanoi v1.0",
+            tk.Label(frameTextos, text="\n\n\n\nLas Torres de Hanoi\nTorresHanoi v1.0",
                      bg="White Smoke", font=("Comic Sans MS", 14, "bold"),
                      fg="#00008B").pack(pady=(0, 10))
 
